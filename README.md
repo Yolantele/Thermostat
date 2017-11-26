@@ -1,6 +1,8 @@
-# Thermostat
+# Thermostat 
+javaScript, jQuery, ruby, sinatra, 
 
-# Project Integrating Thermostat settings with weather API:
+Integrating Thermostat settings 
+- local weather API:
 - power saving mode 
 - energy usage display
 - min/max and reset temperatures
